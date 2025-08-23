@@ -1,73 +1,69 @@
-# Toufik Aslam Jamadar
+# 👋 Hi, I'm Toufik Jamadar
 
-**DevOps Engineer | AWS Cloud Enthusiast | Automation Specialist**  
-Pune, Maharashtra  
-📞 +91 7083535764 | ✉️ jamadartoufik799@gmail.com
+🚀 **DevOps Engineer | AWS Cloud | CI/CD Automation**
 
----
-
-## Objective
-
-A professional with 7 months of experience as a DevOps Engineer Intern at 2070Health, skilled in AWS Cloud, CI/CD, automation, and infrastructure management. I am seeking opportunities to further enhance my technical and management skills in a dynamic environment.
+I am a DevOps Engineer with hands-on experience in **AWS Cloud, CI/CD pipelines, Infrastructure as Code, and container orchestration**. Over the past 9 months, I have worked across multiple internships at **2070Health, Techeazy Consulting, and PearlThoughts**, gaining solid experience in cloud infrastructure automation, configuration management, and deploying scalable applications.
 
 ---
 
-## Experience Summary
-
-- **DevOps Engineer Intern, 2070Health (7 months)**
-    - Contributed to infrastructure automation, CI/CD, and cloud operations.
-    - Managed STAGE, QA, PRE-PROD, and PROD environments using Terraform, Terragrunt, and GitHub Workflows.
-    - Administered Linux servers on AWS EC2, including provisioning, configuration, and patch management.
-    - Automated tasks with shell scripts for S3 sync, SSL certificate generation, log rotation, and EC2 health monitoring.
-    - Standardized environments and deployments with Ansible.
-    - Deployed containerized applications using Docker and Kubernetes (EKS), managed Helm-based deployments.
-    - Built and maintained CI/CD pipelines using Jenkins, GitHub Actions, and multibranch Jenkinsfiles.
-    - Monitored systems with Prometheus, CloudWatch, and Node Exporter.
-    - Worked with AWS services: EC2, S3, RDS, ECS, ELB, Auto Scaling, IAM, VPC, CloudFront, CloudTrail, CloudWatch, SES, SNS.
-    - Configured VPCs, Subnets, Route Tables, and NAT Gateways for secure, isolated workloads.
-    - Applied IAM policies and roles for security and least-privilege access.
-    - Enabled CloudTrail and CloudWatch Logs for operational auditing.
-    - Strong understanding of SDLC, Agile methodologies, and scrum ceremonies.
-    - Proficient with Git, GitHub branching, access control, and versioning strategies.
-    - Knowledgeable in build automation tools like Maven and Gradle.
-    - Recognized for self-motivation, quick learning, and collaborative teamwork.
-
----
-
-## Education
-
-**Bachelor of Science (Computer Science)**  
-Ch. Shivaji University, March 2023
-
----
-
-## Technical Expertise
-
-- **Operating Systems:** Linux (RHEL 7), Windows Server 2019
-- **Cloud & DevOps:** AWS (EC2, S3, IAM, RDS, ECS, ELB, VPC, CloudFront, CloudTrail, CloudWatch, SES, SNS), Terraform, Terragrunt
-- **CI/CD:** Jenkins (Declarative Pipeline, Groovy), GitHub Actions, Git
-- **Configuration Management:** Ansible
+## 🔧 Technical Skills
+- **Cloud Platforms:** AWS (EC2, S3, RDS, ECS, EKS, IAM, CloudFront, CloudWatch, CloudTrail, Route53, SNS, SES)
+- **DevOps & CI/CD:** GitHub Actions, Jenkins, Terraform, Terragrunt, Ansible
 - **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm
-- **Monitoring & Logging:** Prometheus, Grafana, Loki, CloudWatch, Node Exporter, VPC Flow Logs
-- **Scripting:** Shell Scripting
-- **Web Servers:** Tomcat, Nginx, httpd
-- **Build Tools:** Maven, Gradle
-- **Other Tools:** N8n
+- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch, Loki, Node Exporter
+- **Scripting & Automation:** Bash/Shell scripting
+- **Web & Servers:** Nginx, Apache HTTPD, Tomcat
 
 ---
 
-## Personal Details
+## 💼 Professional Experience
 
-- **Name:** Toufik Aslam Jamadar
-- **Address:** Hinjewadi, Pune, 411057
-- **Languages:** English, Hindi, Marathi
+**2070Health Pvt Ltd** *(Oct 2024 – Apr 2025)*  
+*DevOps Intern*  
+- Automated infrastructure with **Terraform & Terragrunt**.  
+- Built and maintained CI/CD pipelines with **Jenkins & GitHub Actions**.  
+- Managed **Linux servers on AWS EC2**, implemented patching & log rotation.  
+- Deployed containerized apps with **Docker & Kubernetes (EKS)**.  
+- Monitored systems using **Prometheus & CloudWatch**.  
+
+**Techeazy Consulting Pvt Ltd** *(May 2025 – Jun 2025)*  
+*DevOps Intern*  
+- Configured **VPCs, Subnets, Route Tables, NAT Gateways**.  
+- Applied **IAM policies & roles** for least-privilege access.  
+- Enabled **CloudTrail & CloudWatch** for auditing and monitoring.  
+
+**PearlThoughts Pvt Ltd** *(Jul 2025 – Aug 2025)*  
+*DevOps Intern*  
+- Designed and automated **CI/CD pipelines with GitHub Actions**.  
+- Deployed Dockerized Strapi apps to **AWS ECS Fargate**.  
+- Used **Terraform** for provisioning ECS, RDS, ALB, and networking resources.  
+- Implemented **Blue/Green deployments** with AWS CodeDeploy.  
 
 ---
 
-## Declaration
+## 🏗️ Project Highlight
 
-I hereby declare that all the information given above is true to the best of my knowledge and belief.
+**babyMD (Healthcare Platform)**  
+- Built modular infrastructure with **Terraform + Terragrunt**.  
+- Automated **multi-environment deployments** with GitHub Actions.  
+- Configured **ECS autoscaling, CloudFront for static assets, and Route53 DNS**.  
+- Integrated monitoring with **Grafana, Prometheus, and CloudWatch**.  
+- Delivered production-ready environment with secure networking & high availability.  
 
 ---
 
-*Last updated: June 2025*
+## 🎓 Certifications
+- **AWS DevOps Certification** – Velocity Institute  
+- **Docker Essentials: A Developer Introduction** – IBM Cognitive Class  
+
+---
+
+## 🎓 Education
+**Bachelor of Computer Science (BCS)** – Ch. Shivaji University (Mar 2023)  
+
+---
+
+## 📫 Let’s Connect
+- 📍 Pune, Maharashtra  
+- 📧 [jamadartoufik799@gmail.com](mailto:jamadartoufik799@gmail.com)  
+- 📞 +91 7083535764  
